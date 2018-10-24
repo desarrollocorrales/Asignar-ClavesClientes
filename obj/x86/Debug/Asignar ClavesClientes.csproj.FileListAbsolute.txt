@@ -1,0 +1,15 @@
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\obj\x86\Debug\Asignar ClavesClientes.csprojResolveAssemblyReference.cache
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\bin\Debug\Asignar ClavesClientes.exe.config
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\bin\Debug\Asignar ClavesClientes.exe
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\bin\Debug\Asignar ClavesClientes.pdb
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\obj\x86\Debug\Asignar ClavesClientes.exe
+D:\Github\MayoreoMinimo\Asignar ClavesClientes\obj\x86\Debug\Asignar ClavesClientes.pdb
+D:\Github\Asignar ClavesClientes\bin\Debug\Asignar ClavesClientes.exe.config
+D:\Github\Asignar ClavesClientes\bin\Debug\Asignar ClavesClientes.exe
+D:\Github\Asignar ClavesClientes\bin\Debug\Asignar ClavesClientes.pdb
+D:\Github\Asignar ClavesClientes\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Github\Asignar ClavesClientes\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\Github\Asignar ClavesClientes\obj\x86\Debug\Asignar ClavesClientes.exe
+D:\Github\Asignar ClavesClientes\obj\x86\Debug\Asignar ClavesClientes.pdb
